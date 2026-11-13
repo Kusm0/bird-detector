@@ -1,0 +1,7 @@
+.venv/
+datasets/
+runs/
+__pycache__/
+*.log
+.DS_Store
+yolo26n.pt
